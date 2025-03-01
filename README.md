@@ -133,16 +133,16 @@ Our goal:
 
 🔹 **Component-Specific Pre-Checks**
 
-- **Most common failures (Aug 2024):**
+- **Most common breakdowns (Aug 2024):**
     - 🛞 **Tires:** 3,487 cases
     - 🔗 **Chains:** 3,240 cases
     - 🛠 **Others (brakes, bells, gears):** 2,637 cases
 - **August 2025 Plan:**
-    - Preventive teams **focus on pre-checking these components** before failures occur.
+    - Preventive teams **focus on pre-checking these components** before breakdowns occur.
 
-🔹 **Optimized Repair Shifts Based on Failure Timing**
+🔹 **Optimized Repair Shifts Based on Breakdown Timing**
 
-- **Peak failure hours:** **18:00 - 21:00 (evening rush hour)**
+- **Peak breakdown hours:** **18:00 - 21:00 (evening rush hour)**
 - **Optimized team scheduling:**
     - ☀ **Morning (05:00 - 10:00)** → Routine inspections & minor repairs
     - 🔧 **Afternoon (12:00 - 18:00)** → Major component replacements
@@ -157,9 +157,9 @@ Our goal:
 🔹 **Key Dashboard Features:**
 
 - **📉 Monthly breakdown trends** (real-time tracking)
-- **📍 High-failure vs. low-failure districts**
-- **🔥 Failure ranking system** (Legend / Manner King / Honor Student / Caution / Emergency)
-- **🛠 Root cause analysis for top 3 high-failure districts**
+- **📍 High-breakdown vs. low-breakdown districts**
+- **🔥 Breakdown ranking system** (Legend / Manner King / Honor Student / Caution / Emergency)
+- **🛠 Root cause analysis for top 3 high-breakdown districts**
 - **⏰ Breakdown trends by time of day**
 
 ---
