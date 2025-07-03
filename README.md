@@ -1,5 +1,5 @@
 # 🚴 Seoul Public Bicycle Analysis
-Ddareungi August-September 2024 Breakdown Rate Analysis and 2025 Preparedness Strategy
+**Ddareungi August-September 2024 Breakdown Rate Analysis and 2025 Preparedness Strategy**
 
 ## ⚡ TL;DR (Quick Summary)
 
