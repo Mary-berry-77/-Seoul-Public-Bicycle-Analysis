@@ -156,7 +156,8 @@ Our goal:
 ### ✅ **Solution 2: Real-Time Breakdown Monitoring Dashboard**
 
 📊 **A live dashboard** will support the maintenance team with **real-time decision-making**.
-![따릉이대시보드](https://github.com/user-attachments/assets/33571f72-f7ab-465a-bdee-365c1ef35dc1)
+
+![대시보드 2](https://github.com/user-attachments/assets/0a0ad8d7-8a8a-4249-aefb-a8a1eef6b3b4)
 
 
 🔹 **Key Dashboard Features:**
