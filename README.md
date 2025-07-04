@@ -93,7 +93,7 @@ Our goal:
 
 - 🚴‍♂️ **Component breakdown spiked with rising temperatures.**
 - 🌡 **September 2024 saw record-breaking heatwaves & tropical nights.**
-💡 **Conclusion:** Heat was a major factor in the breakdown surge.
+- 💡 **Conclusion:** Heat was a major factor in the breakdown surge.
 
 ---
 
