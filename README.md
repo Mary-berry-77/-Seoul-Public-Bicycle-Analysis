@@ -60,7 +60,8 @@ Our goal:
 ## 🔎 Findings & Insights
 
 ### **1️⃣ Correlation Between August & September Breakdowns**
-![2023vs2024](https://github.com/user-attachments/assets/a623e02d-a8df-4708-8e8a-621c0fa5b75a)
+![2023vs2024](https://github.com/user-attachments/assets/51f45490-3d10-442d-a99c-4906bc60519f)
+
 
 
 
