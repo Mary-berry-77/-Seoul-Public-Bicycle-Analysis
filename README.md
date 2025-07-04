@@ -154,14 +154,19 @@ Our goal:
 ### ✅ **Solution 2: Real-Time Breakdown Monitoring Dashboard**
 
 📊 **A live dashboard** will support the maintenance team with **real-time decision-making**.
+![따릉이대시보드](https://github.com/user-attachments/assets/33571f72-f7ab-465a-bdee-365c1ef35dc1)
+
 
 🔹 **Key Dashboard Features:**
+
 
 - **📉 Monthly breakdown trends** (real-time tracking)
 - **📍 High-breakdown vs. low-breakdown districts**
 - **🔥 Breakdown ranking system** (Legend / Manner King / Honor Student / Caution / Emergency)
 - **🛠 Root cause analysis for top 3 high-breakdown districts**
 - **⏰ Breakdown trends by time of day**
+
+
 
 ---
 
